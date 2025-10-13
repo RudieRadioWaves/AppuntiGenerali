@@ -1,0 +1,4 @@
+- "L'arte di massimizzare il lavoro non fatto/da non fare"
+	- One and once only: fa tutto quello che serve, senza duplicazioni
+	- KISS: keep it simple, stupid
+- Contrapposizione al design for change (che è visto come appesantimento inutile)ù

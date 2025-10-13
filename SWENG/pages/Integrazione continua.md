@@ -1,0 +1,3 @@
+- Per avere feedback rapidi, l'integrazione va svolta più volte al giorno
+- Dopo aver risolto il problema "in piccolo" della sezione programmata, la coppia programmatrice è anche responsabile di risolvere i problemi di integrazione
+- E' molto rapida perchè il sistema non ha subito grandi cambiamenti

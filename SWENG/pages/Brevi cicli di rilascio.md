@@ -1,0 +1,4 @@
+- Riduce i rischi
+- Vita e sviluppo dell'applicazione sono scanditi da rilasci di versioni funzionanti
+	- Questi rilasci devono però avere cambiamenti significativi (questa è responsabilità del management)
+- Serve per avere feedback rapido dal cliente

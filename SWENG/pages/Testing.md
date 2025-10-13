@@ -1,0 +1,4 @@
+- Ovviamente il [[TDD]]
+- I clienti scrivono i test funzionali per aumentare la loro fiducia nel programma
+- I programmatori scrivono i test di unità perchè la fiducia nel codice diventi parte del programma stesso
+- Facilita il refactoring

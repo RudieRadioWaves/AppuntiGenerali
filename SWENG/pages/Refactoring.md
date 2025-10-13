@@ -1,0 +1,5 @@
+- Modifiche al codice che non modificano la funzionalità
+- Esatto opposto dell'open-close principle
+	- (Codice dovrebbe essere aperto all'evoluzioni e chiuso alle modifiche)
+- Svolto gradualmente ma con continuità e "senza pietà"
+- Può aiutare l'evoluzione

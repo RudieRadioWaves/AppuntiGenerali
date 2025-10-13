@@ -1,0 +1,9 @@
+- Due programmatori lavorano insieme
+- Aiuta ad avere controllo delle regole dell'[[eXtreme Programming]]
+- Aiuta l'inserimento di nuovo personale e della loro formazione
+	- Spiegare aiuta anche a capire
+- Aiuta a ottenere una conoscenza osmotica collettiva del progetto
+- Aiuta il refactoring
+- Dimezzare la scrittura dimezza la produttività?
+	- No, anzi si stima che aumenti
+- Si svolge l'ispezione del codice mentre lo si scrive

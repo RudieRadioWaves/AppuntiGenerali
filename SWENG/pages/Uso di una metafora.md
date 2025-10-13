@@ -1,0 +1,5 @@
+- Siccome non c'è vera e propria documentazione, serve una specie di vista aggregante
+	- Sostituisce in parte l'architettura del sistema
+	- Fa capire gli elementi fondamentali e le loro relazioni
+- Permette di comunicare con il cliente usando un vocabolario comune
+	- Idealmente permette la nominazione delle classi

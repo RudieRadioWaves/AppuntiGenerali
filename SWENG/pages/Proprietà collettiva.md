@@ -1,0 +1,2 @@
+- Il codice appartiene al team, non solo ad una persona
+- E' responsabilità di tutti
