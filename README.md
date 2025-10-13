@@ -4,7 +4,7 @@
 
 | Materia  | Ultima Lezione Seguita  | Ultima Lezione Erogata | Sito | Altro |
 
-|--|--|--|--|--|--|--|---|--|--|--|--|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
 | Algoritmi | 4 | 5 | [https://myariel.unimi.it/course/view.php?id=8701](https://myariel.unimi.it/course/view.php?id=8701)| [https://t.me/+sfEGgXYELAswMDBk](https://t.me/+sfEGgXYELAswMDBk)|
 
@@ -16,9 +16,9 @@
 
 | Embedded | 0 | 26 | [https://gitlab.di.unimi.it/sistemiembedded](https://gitlab.di.unimi.it/sistemiembedded)| Sviluppa il progetto |
 
-| Reti | 0 | 2 |[https://myariel.unimi.it/course/view.php?id=9026](https://myariel.unimi.it/course/view.php?id=9026)| Fai stecazzo di esercizi su Packet Tracer di merda |
+| Reti | 0 | 2 | [https://myariel.unimi.it/course/view.php?id=9026](https://myariel.unimi.it/course/view.php?id=9026)| Fai stecazzo di esercizi su Packet Tracer di merda |
 
-| Statistica | 2 | 24 |[https://malchiodi.di.unimi.it/teaching/SAD/2024-25/](https://malchiodi.di.unimi.it/teaching/SAD/2024-25/)| . |
+| Statistica | 2 | 24 | [https://malchiodi.di.unimi.it/teaching/SAD/2024-25/](https://malchiodi.di.unimi.it/teaching/SAD/2024-25/)| . |
 
 
 
