@@ -1,0 +1,1 @@
+- Insieme di individui considerato per l'analisi

@@ -1,0 +1,5 @@
+- Detto di software che:
+	- è [usabile]([[Usabilità]])
+	- è [veloce]([[Efficienza]])
+	- è [pulito]([[Verificabilità]])
+-

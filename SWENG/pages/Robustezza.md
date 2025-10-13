@@ -1,0 +1,1 @@
+- Detto di software/processo che si comporta in modo corretto anche in situazioni non previste

@@ -1,0 +1,2 @@
+- Formalmente, *insieme ordinato e finito di istruzioni scritte secondo le regole di uno specifico linguaggio di programmazione*
+- Non è equivalente ad un [[Algoritmo]], ma è la sua espressione formale in un linguaggio di programmazione, comprensibile dall'esecutore

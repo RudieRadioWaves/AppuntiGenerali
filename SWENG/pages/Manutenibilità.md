@@ -1,0 +1,3 @@
+- Detto di software
+	- [Correggibile]([[Riparabilità]])
+	- [Evolvibile]([[Evolvibilità]])

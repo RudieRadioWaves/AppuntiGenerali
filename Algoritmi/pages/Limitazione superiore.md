@@ -1,0 +1,10 @@
+- Detta anche "O-grande"
+- Definiamo $f, g : \N \rightarrow \R^+$:
+	- $f(n) = O(g(n))$ se $\exists c > 0, n_0 \in N$ tale che $\forall n > n_0 : f(n) \leq c \cdot g(n)$
+	- $f(n)$ cresce AL MASSIMO come $g(n)$
+	- Esempio: $5n^2 + n$ è $O(n^2)$ ed è $O(n^4)$ ma non è $O(n)$
+	- Proprietà:
+		- $f(n) = O(g(n)), \forall k > 0 \implies k \cdot f(n) = O (g(n)$
+		- $f1(n) = O(g1(n)), f2(n) = O(g2(n))$:
+			- $f_1 (n) + f_2 (n) = O (g_1 (n) + g_2 (n))$
+			- $f_1 (n) \cdot f_2 (n) = O (g_1 (n) \cdot g_2 (n))$

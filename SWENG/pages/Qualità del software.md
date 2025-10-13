@@ -1,0 +1,4 @@
+- Un software:
+	- deve [[Funzionare]]
+	- deve [[Essere bello]]
+	- deve [[Farmi diventare ricco]]

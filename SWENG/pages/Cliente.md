@@ -1,0 +1,1 @@
+- ![Michelangelo,_Creation_of_Adam_04.jpg](../assets/Michelangelo,_Creation_of_Adam_04_1758806845948_0.jpg)

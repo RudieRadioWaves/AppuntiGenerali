@@ -1,0 +1,1 @@
+- "Il valore dei modelli che rappresentano il software da diversi punti di vista dipendono dal punto di vista preso, ma non c’è nessuna vista che è la migliore per ogni scopo."

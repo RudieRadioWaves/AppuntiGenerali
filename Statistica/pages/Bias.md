@@ -1,0 +1,1 @@
+- Pregiudizi nella selezione del [[Campione]] (?)

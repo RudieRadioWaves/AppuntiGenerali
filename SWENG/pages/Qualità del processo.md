@@ -1,0 +1,3 @@
+- Un processo:
+	- deve [resistere agli imprevisti]([[Robustezza]])
+	- deve [essere veloce]([[Produttività]])

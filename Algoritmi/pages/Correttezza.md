@@ -1,0 +1,2 @@
+- Dato un algoritmo $A$ e un problema $P$, dimostrare che $A$ risolve $P$
+	- Formalmente, si dice che l'algoritmo $a$ risolve il problema $B$ se e solo se $\forall x \in D_I$, si ha che $f_a(x) = f(x)$

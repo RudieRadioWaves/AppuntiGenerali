@@ -1,0 +1,3 @@
+- Si definisce a priori il problema. studiando fattori come l'investimento economico,  il mercato e i concorrenti, l'hardware e l'architettura
+- Si stimano i costi, le risorse, i templi di sviluppi e benefici delle varie soluzioni
+- Generano documenti ("Plichi") in linguaggio naturale

@@ -1,0 +1,3 @@
+- Detto di software che usa in modo efficiente le risorse fornite
+	- NB: meglio che un software [funzioni]([[Funzionare]]) piuttosto che non funzioni ma non sia efficiente
+-

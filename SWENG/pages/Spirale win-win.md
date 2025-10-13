@@ -1,0 +1,4 @@
+- Variante del [[Metamodello a spirale]] nel quale si evidenzia il rischio causato dai rapporti tra clienti e sviluppatori
+	- Se non si contratta in modo giusto, possono fallire
+- Detto win-win in quanto che entrambe le parti pensano di vincere
+- ![02_win_win.png](../assets/02_win_win_1759931032846_0.png){:height 452, :width 850}

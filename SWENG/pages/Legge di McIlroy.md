@@ -1,0 +1,1 @@
+- "Riutilizzo di [componenti] riduce il tempo di progettazione e aumenta produttività e qualità"

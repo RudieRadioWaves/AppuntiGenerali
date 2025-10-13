@@ -1,0 +1,10 @@
+- [[Metodologia Agile]] nel quale un progetto è gestito tramite una tabella, nella quale ogni colonna rappresenta un iterazione del progetto (la tabella rappresenta, complessivamente, lo stato di evoluzione)
+	- Colonna 1 contiene le feature richieste dal cliente non ancora svolte (il backlog)
+	- Colonna 2 contiene le "storie" selezionate da sviluppare nel prossimo tot di tempo
+	- Colonna 3 contiene quelle su cui si sta effettivamente lavorato
+	- Colonna 4 contiene quelle su cui si devono svolgere test di integrazione
+	- Colonna 5 contiene quelle completate
+- Frase chiave è "minimize work in progress"
+	- Svolgere una storia alla volta per concentrarsi al massimo
+	- Se si è bloccati, si cerca aiuto
+	- AL MASSIMO si mette qualcosa in coda

@@ -1,0 +1,4 @@
+- Iterazione del [[Modello a cascata]] nel quale si può "tornare indietro" e rimettere mano alla fase precedente
+	- Una modifica nella fase precedente è detta "iterazione"
+- Da sequenziale diventa [[Modello iterativo]]
+- ![02_waterfall-retroazione.png](../assets/02_waterfall-retroazione_1759913475769_0.png)

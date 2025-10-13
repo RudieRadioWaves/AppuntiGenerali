@@ -1,0 +1,4 @@
+- Un qualche tipo di valore ottenuto da una misurazione
+- Può essere:
+	- [Quantitativo]([[Dato quantitativo]])
+	- [Qualitativo]([[Dato qualitativo]])

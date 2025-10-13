@@ -1,0 +1,2 @@
+- Detto di software le cui proprietà sono facilmente dimostrabili
+	- Molto spesso legata alla **leggibilità** del codice

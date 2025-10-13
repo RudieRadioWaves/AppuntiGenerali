@@ -1,0 +1,1 @@
+- Detto di software che non provoca danno all'utente

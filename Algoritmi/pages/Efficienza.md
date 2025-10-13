@@ -1,0 +1,5 @@
+- Valore derivato dall'[[Analisi]] di un [[Algoritmo]]
+- Risposta alla domanda "quante risorse usa?"
+	- Queste risorse sono tipicamente tempo (cicli di computazione) e spazio (quantità di memoria usata)
+	- Per le funzioni ricorsive, bisogna considerare lo [[Stack di ricorsione]]
+- Variando anche minimamente il codice, le prestazioni variano, ma non il tasso di crescita delle stesse (es. rimane sempre logaritmico/lineare/quadratico...), che conta di più

@@ -1,0 +1,2 @@
+- [[Problema]] per il quale esistono solo [Algoritmi]([[Algoritmo]]) inefficienti
+	- Esempio: problema del commesso viaggiatore

@@ -1,0 +1,1 @@
+- "Mancanze nei [[Requirement]] sono la prima causa del fallimento dei progetti."

@@ -1,0 +1,5 @@
+- (Components Off The Shelf)
+- [[Modello di produzione del software]] costituito dal riuso di componenti già esistenti per salvare tempo, soldi e fatica
+	- Questo necessita di fasi di analisi e retrieval
+	- Se necessario, devono essere modificati/adattati
+- ![02_cots.png](../assets/02_cots_1759931366499_0.png)

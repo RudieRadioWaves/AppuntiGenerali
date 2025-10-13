@@ -1,0 +1,2 @@
+- Definizione di quanto un [[Problema]] sia difficile da risolvere
+	- [[Problema difficile]]

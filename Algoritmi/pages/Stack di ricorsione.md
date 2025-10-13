@@ -1,0 +1,1 @@
+- Stack che contiene vari [[Record di attivazione]], permettendo chiamate ricorsive

@@ -1,0 +1,5 @@
+- "fuffosa" [sic.]
+- [[Metodologia Agile]] nella quale si parla dei propri problemi e ci si aiuta a risolverlo
+	- Non esiste l'individuo, ma il team
+	- Detto questo, non funziona con team grandi
+- Frase chiave: comunicazione osmotica

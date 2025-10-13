@@ -1,0 +1,7 @@
+- [[Studio di fattibilità]]
+- [[Analisi e specifica dei requirement]]
+- [[Progettazione]]
+- [[Programmazione e test di unità]]
+- [[Integrazione e test di sistema]]
+- [[Consegna, installazione e manutenzione]]
+	- Altre attività dopo la consegna possono essere la scrittura della documentazione (che dovrebbe essere trasversale, in realità) o il controllo qualità

@@ -1,0 +1,15 @@
+- ![{07FB10EB-3B5E-4F86-925F-ED5A0F55BFD6}.png](../assets/{07FB10EB-3B5E-4F86-925F-ED5A0F55BFD6}_1759324759702_0.png)
+	- Analisi: questo algoritmo somma tutti i numeri maggiori di zero in un array e conta quanti ce ne sono, calcolandone alla fine la media aritmetica
+- ![{82B6EE9C-4B81-41F9-B695-573716F5CA52}.png](../assets/{82B6EE9C-4B81-41F9-B695-573716F5CA52}_1759326161148_0.png)
+	- L'errore principale che contiene è che non contiene il caso FAIL
+- ![{F11C2097-69E0-44E0-9A1A-075AD43482DF}.png](../assets/{F11C2097-69E0-44E0-9A1A-075AD43482DF}_1759326254564_0.png)
+	- Il mio laptop sarà sempre più veloce in quanto $120n << 2n^2$
+	- ![{35CE6011-C4D5-4937-A55C-7BE176820015}.png](../assets/{35CE6011-C4D5-4937-A55C-7BE176820015}_1759326561402_0.png)
+- ![{C09735B0-80F6-43C1-B398-0E8C7F258049}.png](../assets/{C09735B0-80F6-43C1-B398-0E8C7F258049}_1759326576483_0.png)
+	- Caso peggiore: $q$ non è nell'array
+		- Le righe 3 e 9 eseguite 1 volta ciascuna, aggiungendo 2 unità di tempo insieme
+		- La riga 4 viene eseguita $n+1$ volte ($n$ volte per iterare attraverso il ciclo, 1 volta per uscirne)
+		- Le righe 5, 7 e 8 vengono eseguite $n$ volte ciascuna (5: ogni elemento dell'array deve essere comparato con $q$, 7: nessun elemento è $q$, 8: siccome nessun elemento è $q$ bisogna incrementare $j$ ogni volta), per un contributo totale $3n$
+		- La riga $6$ non viene mai eseguita
+			- CORREZIONE: non si conta l'else (struttura di controllo)
+	- In totale: $2 + n+ 3n = 4n + 2$

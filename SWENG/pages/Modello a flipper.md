@@ -1,0 +1,3 @@
+- [[Modello incrementale]] ironico, basato sull'idea che un processo non può essere pianificato al meglio
+- L'idea è che come la pallina nel flipper, la direzione del processo è causale
+- ![02_pinball-life-cycle.png](../assets/02_pinball-life-cycle_1759929892448_0.png)

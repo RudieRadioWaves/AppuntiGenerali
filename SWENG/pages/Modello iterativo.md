@@ -1,0 +1,1 @@
+- [[Modello di produzione del software]] nel quale si sottolinea l'importanza della modularizzazione e dell'implementazione di sottosistemi

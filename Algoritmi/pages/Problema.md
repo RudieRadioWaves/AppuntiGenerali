@@ -1,0 +1,1 @@
+- Non saprei definirlo se non in maniera assiomatica. Ceh un problema è un problema boh

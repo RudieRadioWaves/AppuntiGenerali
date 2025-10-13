@@ -1,0 +1,4 @@
+- Nel processo di generazione di un [[Algoritmo]] bisogna tenere a mente i seguenti due aspetti:
+	- la [[Correttezza]]
+	- l'[[Efficienza]]
+- Esistono metodologie, adottate per specifiche classi di problemi, che permettono di sviluppare algoritmi efficienti

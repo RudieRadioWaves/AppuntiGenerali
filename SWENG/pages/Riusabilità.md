@@ -1,0 +1,2 @@
+- Detto di un componente di un progetto che è riutilizzabile in un altro progetto
+	- [[Legge di McIlroy]]

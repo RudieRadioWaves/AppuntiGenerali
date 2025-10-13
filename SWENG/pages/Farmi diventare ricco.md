@@ -1,0 +1,4 @@
+- Detto di software che:
+	- permette di [riutilizzare qualcosa di già fatto]([[Riusabilità]])
+	- permette di [semplificare gli interventi post-consegna]([[Manutenibilità]])
+	- permette di [essere migliorato senza aggiungere altre feature]([[Perfettibilità]])

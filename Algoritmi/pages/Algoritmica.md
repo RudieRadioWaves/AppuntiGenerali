@@ -1,0 +1,8 @@
+- Parte dell'Informatica che studia gli [Algoritmi]([[Algoritmo]]) e gli aspetti ad essi legati
+- Si occupa:
+	- della [[Sintesi]] degli algoritmi
+	- dello studio delle [Strutture dati]([[Struttura dati]])
+	- dell'[[Analisi]] della loro efficienza
+	- della [[Classificazione]] dei [Problemi]([[Problema]])
+	- della definizione di nuovi modelli di calcolo
+- Informa la scrittura dei programmi, e fornisce uno strumento mentale e metodologico per affrontare i problemi

@@ -1,0 +1,26 @@
+- [[Planning game]]
+  logseq.order-list-type:: number
+- [[Brevi cicli di rilascio]]
+  logseq.order-list-type:: number
+- [[Uso di una metafora]]
+  logseq.order-list-type:: number
+- [[Presumere la semplicità]]
+  logseq.order-list-type:: number
+- [[Testing]]
+  logseq.order-list-type:: number
+- [[Refactoring]]
+  logseq.order-list-type:: number
+- [[Pair programming]]
+  logseq.order-list-type:: number
+- [[Proprietà collettiva]]
+  logseq.order-list-type:: number
+- [[Integrazione continua]]
+  logseq.order-list-type:: number
+- [[Settimana da 40 ore]]
+  logseq.order-list-type:: number
+- [[Cliente sul posto]]
+  logseq.order-list-type:: number
+- [[Standard di codifica]]
+  logseq.order-list-type:: number
+- [[They’re just rules]]
+  logseq.order-list-type:: number

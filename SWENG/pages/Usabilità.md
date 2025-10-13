@@ -1,0 +1,2 @@
+- Detto di software che è facile da usare
+	- [[Legge di Nielsen-Norman]]

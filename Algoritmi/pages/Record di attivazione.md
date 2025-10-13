@@ -1,0 +1,1 @@
+- Singolo elemento dello [[Stack di ricorsione]], che contiene tutte le variabili di una singola chiamata di una funzione

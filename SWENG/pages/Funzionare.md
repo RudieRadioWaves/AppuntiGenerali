@@ -1,0 +1,4 @@
+- Detto di software che:
+	- è [corretto]([[Correttezza]])
+	- è [affidabile]([[Affidabilità]])
+	- è [innocuo]([[Safety]]) e/o [robusto]([[Robustezza]])

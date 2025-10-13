@@ -1,0 +1,3 @@
+- I componenti testati vengono uniti, e il processo di integrazione viene a sua volta testato
+	- In un test di integrazione, i sottosistemi dell'applicazione, precedentemente emulati dal vengono mano a mano sostituiti
+	- Questo può essere svolto in maniera top-down o bottom-up

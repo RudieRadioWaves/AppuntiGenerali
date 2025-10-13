@@ -1,0 +1,10 @@
+- Detta anche "$\Omega$-grande"
+- Definiamo $f, g : \N \rightarrow \R^+$:
+	- $f(n) = \Omega(g(n))$ se $\exists c > 0, n_0 \in N$ tale che $\forall n > n_0 : f(n) \geq c \cdot g(n)$
+	- $f(n)$ cresce ALMENO come $g(n)$
+	- Esempio: $5n^2 + n$ è $\Omega(n^2)$ ed è $\Omega(n \log n)$ ma non è $\Omega(n^3)$
+	- Proprietà:
+		- $f(n) = \Omega(g(n)), \forall k > 0 \implies k \cdot f(n) = \Omega (g(n)$
+		- $f1(n) = \Omega(g1(n)), f2(n) = \Omega(g2(n))$:
+			- $f_1 (n) + f_2 (n) = \Omega (g_1 (n) + g_2 (n))$
+			- $f_1 (n) \cdot f_2 (n) = \Omega (g_1 (n) \cdot g_2 (n))$

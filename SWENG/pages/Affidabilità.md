@@ -1,0 +1,2 @@
+- Detto di software del quale il [[Cliente]] si possa fidare (in relazione al suo funzionamento)
+	- Determinabile solo dal cliente stesso

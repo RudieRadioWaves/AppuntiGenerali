@@ -1,0 +1,6 @@
+- Identificazione del dominio applicativo del progetto, degli stakeholders (gli investitori interessati al progetto), delle funzionalità (solo il COSA, non il COME)
+- Tutto questo visto dal punto di vista dell'utente
+- Genera un documento di specifica contenente i [[Requirement]] , approvato dal committente, che sarà la base del lavoro
+	- Identificato come linee guida del progetto, non come "bibbia"
+	- [[Legge di Davis]]
+- Presenta anche un piano di test, ossia dei collaudi che certificano la correttezza del lavoro

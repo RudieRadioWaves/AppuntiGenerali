@@ -1,0 +1,1 @@
+- Detto di software i cui errori possono essere corretti

@@ -1,0 +1,11 @@
+- Detta anche "$\Theta$-grande"
+- Definiamo $f, g : \N \rightarrow \R^+$:
+	- $f(n) = \Theta(g(n))$ se $\exists c, d > 0, n_0 \in N$ tale che $\forall n > n_0 : c \cdot g(n) \leq f(n) \leq d \cdot g(n)$
+	- $f(n)$ cresce CIRCA come $g(n)$
+		- $f(n) = \Theta(g(n))$ se e solo se $f(n) = \Omega(g(n))$ e $f(n) = \Omega(g(n))$
+	- Esempio: $5n^2 + n$ è $\Theta(n^2)$
+	- Proprietà:
+		- $f(n) = \Theta(g(n)), \forall k > 0 \implies k \cdot f(n) = \Theta(g(n)$
+		- $f1(n) = \Theta(g1(n)), f2(n) = \Theta(g2(n))$:
+			- $f_1 (n) + f_2 (n) = \Theta(g_1 (n) + g_2 (n))$
+			- $f_1 (n) \cdot f_2 (n) = \Theta(g_1 (n) \cdot g_2 (n))$

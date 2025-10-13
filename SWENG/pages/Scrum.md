@@ -1,0 +1,4 @@
+- [[Metodologia Agile]] nella quale tutti i programmatori collaborano per svolgere un'iterazione
+	- Lo scrum è, nella terminologia del rugby, la mischia dei giocatori
+- Durante iterazioni corte, si congelano i requisiti
+	- Così, ogni tot si può riorientare il progetto, ma altrimenti non si cambia rotta

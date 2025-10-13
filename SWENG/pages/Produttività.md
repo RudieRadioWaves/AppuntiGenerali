@@ -1,0 +1,1 @@
+- Detto di processo che consente l'efficienza nello sviluppo

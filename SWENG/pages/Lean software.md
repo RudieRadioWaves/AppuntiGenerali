@@ -1,0 +1,1 @@
+- [[Metodologia Agile]] nella quale "ridurre gli scarti", ove "gli scarti" sono "tutto ciò che il cliente non vedrà"

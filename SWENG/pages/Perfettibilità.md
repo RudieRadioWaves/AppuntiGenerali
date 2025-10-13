@@ -1,0 +1,1 @@
+- Detto di software che permette il miglioramento di aspetti sia esterni sia interni senza aggiungere feature nuove

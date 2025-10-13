@@ -1,0 +1,7 @@
+- Strumento matematico usato per indicare il tasso di crescita degli elementi che costituiscono l'[[Efficienza]] di un [[Algoritmo]]
+	- NB: si considera sempre l'esponente più grande, eliminando anche costanti moltiplicative
+	- NB2: siccome ogni logaritmo può essere trasformato in un altra base e perciò tutti i logaritmi differiscono solamente per, essenzialmente, costanti moltiplicative, si mette semplicemente "log" senza base
+- Definisce le seguenti:
+	- [[Limitazione superiore]]
+	- [[Limitazione inferiore]]
+	- [[Stesso ordine di grandezza]]

@@ -1,0 +1,6 @@
+- Tipo di [[Dato]] che rappresenta un'etichetta presa a partire da un insieme
+- Può essere:
+	- Binario: rappresenta due esiti tra loro non confrontabili
+		- Booleano: se questi esiti sono Vero/Falso
+	- Nominale: rappresenta infiniti esiti tra loro non confrontabili
+	- Ordinale: rappresenta esiti non numerati ma comunque confrontabili

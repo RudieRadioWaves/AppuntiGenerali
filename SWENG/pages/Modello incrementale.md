@@ -1,0 +1,1 @@
+- [[Modello di produzione del software]] nel quale è inclusa la consegna nelle iterazioni

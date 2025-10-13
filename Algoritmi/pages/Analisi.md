@@ -1,0 +1,12 @@
+- Misurazione della bontà dell'[[Algoritmo]]
+	- Si valutano la sua [[Correttezza]] ed [[Efficienza]]
+- Per fare ciò, esistono due metodi:
+	- Valutazione a posteriori, aka testing: l'esecuzione di un [[Programma]] basato sull'algoritmo
+		- E' un metodo limitato:
+			- Dovendo provare che funziona per ogni ingresso, se ci sono infiniti ingressi non questa strategia non funziona
+			- Passare dall'algoritmo al programma ha un costo di tempo che può essere alto
+	- Valutazione a priori: stima della bontà in fase di [[Progettazione]]
+		- Dopo aver trovato l'algoritmo con stima migliore, lo si codifica
+- Per vedere come si svolge l'analisi e come scegliere tra due algoritmi con lo stesso obiettivo che svolgono il processo in modo diverso:
+	- [[Esempio Semplice di Analisi 1]]
+	- [[Esempio Semplice di Analisi 2]]

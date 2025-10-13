@@ -1,0 +1,13 @@
+- Strategia o procedimento sistematico di calcolo per la risoluzione dei [Problemi]([[Problema]])
+	- Formalmente, *un insieme ordinato e finito di passi eseguibili e non ambigui che definiscono un procedimento che termina*
+	- Certi algoritmi possono essere randomici o non terminare mai, ma sono casi a parte
+- Matematicamente, un algoritmo $a$ è una funzione $f_a: D_I \rightarrow D_S$, ove
+	- $D_I$ è il dominio delle istanze, ossia gli input del problema
+		- Il problema gestito è $x \in D_I$
+	- $D_S$ è il dominio delle soluzioni, ossia gli output del problema
+		- La soluzione del problema è $f(x) \in D_S$
+- Se l'algoritmo risolve il problema, è [corretto]([[Correttezza]])
+- Uno stesso problema può essere risolvibile tramite algoritmi diversi
+	- E' bene cercare una strategia "buona" (ossia un algoritmo ottimale)
+- Certi problemi sono irrisolvibili o parecchio difficili, e perciò hanno algoritmi risolutivi [inefficienti]([[Efficienza]]) o non li hanno proprio
+- Rappresentabili tramite vari livelli di astrazione del linguaggio usato

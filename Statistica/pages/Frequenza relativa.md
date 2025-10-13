@@ -1,0 +1,2 @@
+- Frazione di casi nei quale avviene un'osservazione
+- Ottenuta dividendo la corrispettiva [[Frequenza assoluta]] per il numero totale di osservazioni

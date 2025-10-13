@@ -1,0 +1,12 @@
+## Grafico a bastoncini
+- ![{:height 745, :width 1034}
+- ## Grafici a barre
+- ![{EA8719CA-8619-4F27-8CBC-CA1E23BBDC3C}.png](../assets/{EA8719CA-8619-4F27-8CBC-CA1E23BBDC3C}_1759760828135_0.png)
+- ## Grafico poligonale
+- ![{:height 720, :width 928}
+- ## Grafico a torta
+- Ogni settore è una frequenza
+- ![{D2A18C78-DDB8-419C-98DF-5C7FA37BCD74}.png](../assets/{D2A18C78-DDB8-419C-98DF-5C7FA37BCD74}_1759761124477_0.png)
+- ## Istogramma
+- ![{10A417A0-95D7-49AF-9B44-C18EE3FCF64E}.png](../assets/{10A417A0-95D7-49AF-9B44-C18EE3FCF64E}_1759761655626_0.png)
+- Permettono di rappresentare il grado di [[Simmetria]], [[Dispersione]] e [[Concentrazione]] dei dati

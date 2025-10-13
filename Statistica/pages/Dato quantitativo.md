@@ -1,0 +1,4 @@
+- Tipo di [[Dato]] che rappresenta una quantità numerica
+- Può essere:
+	- Discreto (esiste dentro un intervallo finito)
+	- Continuo (può assumere un valore potenzialmente infinito)

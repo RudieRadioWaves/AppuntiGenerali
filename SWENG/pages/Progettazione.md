@@ -1,0 +1,2 @@
+- Implementazione effettiva delle specifiche, definendo architettura di sistema, possibile scomposizione di moduli/oggetti o identificazione di pattern
+- Genera un documento di specifica di progetto

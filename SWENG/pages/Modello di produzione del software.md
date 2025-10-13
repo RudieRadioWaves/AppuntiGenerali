@@ -1,0 +1,3 @@
+- Famiglia di [Processi di produzione]([[Processo di produzione]]) distinte per il modo in cui le fase di produzione vengono distinte
+- Ognuno ha i suoi pro e contro
+- Può essere [Incrementale]([[Modello incrementale]]) o [Iterativo]([[Modello iterativo]])

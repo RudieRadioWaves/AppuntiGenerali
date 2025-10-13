@@ -1,0 +1,5 @@
+- [[Modello di produzione del software]] nel quale si creano prototipi, ossia programmi scritti velocemente (usa-e-getta) per
+	- Capire meglio i [[Requirement]] (in tal caso dono pubblici)
+	- Esplorare nuovi strumenti o diverse scelte (test-bed) (in tal caso sono privati)
+- I prototipi NON devono essere trattati come prodotti finali, per non causare debito tecnico
+- [[Legge di Bohem]]

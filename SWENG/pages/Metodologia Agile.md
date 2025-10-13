@@ -1,0 +1,9 @@
+- [[Modello di produzione del software]] che si contrappone ai canoni prestabiliti ponendo i seguenti valori (evidenziati nel proprio manifesto)
+	- Individui e interazioni > processi e strumenti
+	- Software che funziona > documentazione
+	- Collaborazione con i clienti > contrattazione con i clienti
+	- Rispondere al cambiamento > seguire un piano
+- (NB: secondo gli "agilisti", ciò che c'è a destra è importante, ma a sinistra di più)
+- In breve, si cerca di essere più flessibili
+- Ha iterazioni molto brevi
+- Si cerca di motivare il team

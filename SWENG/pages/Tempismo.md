@@ -1,0 +1,4 @@
+- Detto di processo che permette di:
+	- Rispettare le scadenze prefissate
+	- Sviluppare e aggiornare in egual misura i [[Requirement]]
+	- Cogliere l'attimo in relazione al contesto di sviluppo nel quale il software è realizzato

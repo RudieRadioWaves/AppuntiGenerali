@@ -1,0 +1,3 @@
+- (Siccome in questo corso si segue il TDD (Test Driven Development, i due sono considerati come cosa unica)
+- Vengono realizzate le "scatole nere" (i moduli, i componenti) e vengono testati indipendentemente
+	- Per testarli si usano moduli driver (che creano una situazione che permette di testare una parte di un componente) e moduli driver (che simulano "risposte" a "domande" da componenti non effettivamente presenti)

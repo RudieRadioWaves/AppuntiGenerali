@@ -1,0 +1,1 @@
+- Definizione di un [[Algoritmo]] partendo da un [[Problema]]

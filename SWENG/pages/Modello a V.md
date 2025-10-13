@@ -1,0 +1,7 @@
+- Iterazione sul [[Modello a cascata]]
+- Presenta comunque fasi separate e semilavorati congelati, ma svolge attività di testing per garantire la qualità
+	- Testing svolto su:
+		- Requisiti (validazione), preoccupandosi di aver svolto "ciò che si voleva"
+			- Bisogna coinvolgere il cliente o un suo rappresentante
+		- Specifiche (verifica), preoccupandosi di averlo svolto "nella maniera giusta"
+- ![02_v-model.png](../assets/02_v-model_1759911456837_0.png){:height 892, :width 1064}

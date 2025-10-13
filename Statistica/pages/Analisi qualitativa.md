@@ -1,0 +1,1 @@
+- Analisi di [Campioni]([[Campione]]) dalle quali si ottengono risultati soggettivi, da interpretare

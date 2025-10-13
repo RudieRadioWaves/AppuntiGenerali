@@ -1,0 +1,1 @@
+- Il software viene effettivamente usato in ambito pratico e, se ce n'è bisogno, si svolge [manutenzione]([[Manutenibilità]])

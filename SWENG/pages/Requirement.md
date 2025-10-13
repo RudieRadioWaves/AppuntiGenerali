@@ -1,0 +1,1 @@
+- Caratteristiche che il progetto deve avere, richieste dal [[Cliente]]

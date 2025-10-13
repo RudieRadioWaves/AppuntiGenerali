@@ -1,0 +1,2 @@
+- Sottoinsieme della [[Popolazione]] che la rappresenta
+- Ogni elemento del campione deve essere scelto con eguale probabilità

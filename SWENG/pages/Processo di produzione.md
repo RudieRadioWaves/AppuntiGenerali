@@ -1,0 +1,8 @@
+- Processo di generazione di software che permette di assicurare qualità
+- Sviluppato cercando di superare, negli anni '50 e '60, i metodi di produzioni artigianali
+- Riconoscono che
+	- Produrre software non è mera scrittura di codice
+	- Bisogna risolvere problemi di comunicazione
+	- Deve essere rigorosa
+- [[Ipotesi di Bauer-Zemanek]]
+- Ogni aspetto del processo va considerato uno alla volta

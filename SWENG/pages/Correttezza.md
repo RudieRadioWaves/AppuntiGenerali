@@ -1,0 +1,3 @@
+- Detto di software che fa ciò che è stato chiesto dal [[Cliente]] nei [[Requirement]]
+	- Bisogna fare attenzione che essi siano corretti e completi
+		- [[Prima legge di R. Glass]]

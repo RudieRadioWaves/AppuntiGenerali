@@ -1,0 +1,2 @@
+- "Un sistema che viene usato verrà cambiato"
+- "Un sistema in evoluzione aumenterà la sua complessità a meno che venga speso lavoro per ridurlo"
