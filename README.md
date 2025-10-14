@@ -4,7 +4,7 @@
 
 | Materia  | Ultima Lezione Seguita | Ultima Lezione Erogata | Sito | Altro |
 | ------------- | ------------- | --- | --- | --- |
-| Algoritmi  | 4  | 9 |  https://myariel.unimi.it/course/view.php?id=8701 | https://t.me/+sfEGgXYELAswMDBk |
+| Algoritmi  | 5  | 9 |  https://myariel.unimi.it/course/view.php?id=8701 | https://t.me/+sfEGgXYELAswMDBk |
 | Algoritmi (Laboratorio) | 1  | 4 | https://myariel.unimi.it/course/view.php?id=8701 | https://t.me/+sfEGgXYELAswMDBk |
 | Sicurezza | 0 | 2 | https://myariel.unimi.it/course/view.php?id=10069 | https://pwn.college |
 | SWENG | 4 | 4 | https://gitlab.di.unimi.it/ingegneriadelsoftware, https://bellettini.di.unimi.it | https://marcobuster.github.io/sweng/ |

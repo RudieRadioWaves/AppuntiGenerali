@@ -1,0 +1,3 @@
+- Criterio del calcolo dell' [[Efficienza]] di un [[Algoritmo]] nel quale ogni operazione ha costo dipendente dalla lunghezza degli operandi
+	- Per esempio, $x \cdot y$ ha costo $O(\log x + \log y)$
+	- Usato quando ci sono quantità molto grandi

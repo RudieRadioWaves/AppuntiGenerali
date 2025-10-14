@@ -1,0 +1,1 @@
+- Criterio del calcolo dell' [[Efficienza]] di un [[Algoritmo]] nel quale ogni operazione ha costo costante, ossia $O(1)$

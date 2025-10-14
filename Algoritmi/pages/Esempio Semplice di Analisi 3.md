@@ -90,10 +90,10 @@ exclude-from-graph-view:: true
 					- Un'equazione definita in termini di se stessa è detta "equazione di ricorrenza"
 				- Risolviamola (supponendo $y$ pari per semplicità):
 					- $T(x, y) \leq 6 + T(x, \frac{y}{2}) = 6 + 6 + T(x, \frac{y}{2^2}) = 6 + 6 + 6 + T(x, \frac{y}{2^3}) = ... = 6K  + T(x, \frac{y}{2^K})$
-					- Scegliamo un K pratico, che mi riconduce al caso base: $K = 1 + \log_2 y$ è tale che $\lfloor \frac{y}{2^K} \rfloor = \lfloor \frac{1}{2} \rfloor= 0$
-					- $6(1 + \log_2 y)  + T(x, 0) = 6 + 6 \log_2 y + 2 = 8 + 6 \log_2 y$
-					- $T(x, y) \leq  8 + 6 \log_2 y$
-				- Quindi $T(x, y) = / \leq \begin{cases}2 \text{ se } y = 0 \\ 8 + 6 \log_2 y  \text{ altrimenti} \end{cases}$
+					- Scegliamo un K pratico, che mi riconduce al caso base: $K = 1 + \log y$ è tale che $\lfloor \frac{y}{2^K} \rfloor = \lfloor \frac{1}{2} \rfloor= 0$
+					- $6(1 + \log y)  + T(x, 0) = 6 + 6 \log y + 2 = 8 + 6 \log y$
+					- $T(x, y) \leq  8 + 6 \log y$
+				- Quindi $T(x, y) = / \leq \begin{cases}2 \text{ se } y = 0 \\ 8 + 6 \log y  \text{ altrimenti} \end{cases}$
 					- (NB: per calcolare queste cose, a volte si faranno approssimazioni non molto "matematiche", ad esempio supporre $y$ pari)
 					- Impiegando la [[Notazione asintotica]], si dice che è $O(\log y)$
 				- Siccome il tempo cresce in maniera logaritmica, è più efficiente del primo (che cresceva in maniera lineare)
@@ -102,6 +102,6 @@ exclude-from-graph-view:: true
 				- Lo spazio utilizzato equivale al numero di variabili moltiplicato per il record di attivazione, ossia all'altezza dello [[Stack di ricorsione]]
 				- Definiamola come $H(x, y)
 				- $H(x, y) = \begin{cases}1 \text{ se } y = 0 \\ 1 + H(x,  \lfloor \frac{y}{2} \rfloor) \text{ altrimenti} \end{cases}$
-				- Risolvendo questa equazione si ottiene che $H(x, y) = 2 + \log_2(y)$
-				- Dunque lo spazio usato è $3 \cdot (2 + \log_2(y))$
+				- Risolvendo questa equazione si ottiene che $H(x, y) = 2 + \log(y)$
+				- Dunque lo spazio usato è $3 \cdot (2 + \log(y))$
 					- Impiegando la [[Notazione asintotica]], si dice che è $O(\log y)$

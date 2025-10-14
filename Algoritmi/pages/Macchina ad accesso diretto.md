@@ -1,0 +1,7 @@
+- Modello di calcolo derivato dalla [[Macchina di Turing]] ma migliorato con l'aggiunta di una memoria ad accesso diretto (anch'essa infinita)à
+- Ogni cella può contenere un numero grande a piacere
+- Le operazioni base definite in questo modello sono:
+	- Accesso a memoria (load/store)
+	- Operazioni aritmetiche
+	- Operazioni di confronto
+- ![{216BF016-9903-40D9-A349-18F475E0A96C}.png](../assets/{216BF016-9903-40D9-A349-18F475E0A96C}_1760434299142_0.png)

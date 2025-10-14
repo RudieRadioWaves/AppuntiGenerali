@@ -64,8 +64,8 @@ exclude-from-graph-view:: true
 					- $b = 2 \implies u = 2$ iterazioni prima di terminare (divido 2 volte). Questo vale anche per $b = 3$
 					- $b = 4 \implies u = 3$ iterazioni prima di terminare (divido 3 volte). Questo vale anche per $b = 4, 5, 6, 7$
 					- E così via...
-				- Possiamo vedere che la relazione è $u = \lfloor \log_2 b\rfloor + 1$
-			- Quindi il tempo $T(a, b) \leq 5(\lfloor \log_2 b\rfloor + 1) + 3 = 5\lfloor \log_2 b\rfloor + 8$
+				- Possiamo vedere che la relazione è $u = \lfloor \log b\rfloor + 1$
+			- Quindi il tempo $T(a, b) \leq 5(\lfloor \log b\rfloor + 1) + 3 = 5\lfloor \log b\rfloor + 8$
 				- Possiamo vedere che la crescita è indipendente da $a$ e che è logaritmica dipendente da $b$
 				- Comparata alla crescita lineare del [primo esempio]([[Esempio Semplice di Analisi 1]]) è molto più veloce
 		- Spazio:

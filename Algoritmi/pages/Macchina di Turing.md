@@ -1,0 +1,5 @@
+- Primo modello di calcolo considerato per l'esecuzione di [Programmi]([[Programma]])
+- Possiede due nastri infiniti a destra, uno con dati in input e uno in output da scrivere
+- ![{004CC5F2-A7F5-4C3E-860C-8177D514A226}.png](../assets/{004CC5F2-A7F5-4C3E-860C-8177D514A226}_1760432770273_0.png)
+- Permette il calcolo di funzioni di complessità equivalente a un linguaggio di programmazione
+- Il suo problema principale è che i nastri sono ad accesso sequenziale, ossia sarebbero troppo lenti in situazioni vere, e per quanto possano aiutare a dare una stima iniziale
