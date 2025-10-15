@@ -1,0 +1,9 @@
+- Presi un [[Algoritmo]] $A$ e una risorsa $R$, la complessità è una funzione $f : \N \rightarrow \N$ alla quale si può definire:
+	- Una limitazione superiore/upper bound
+		- $A$ ha costo di esecuzione $O(f(n))$ rispetto ad $R$ se la quantità di $R$ *sufficiente* per eseguire $A$ su qualunque istanza di lunghezza $n$ è $O(f(n))$
+	- Una limitazione inferiore/lower bound
+		- $A$ ha costo di esecuzione $\Omega(f(n))$ rispetto ad $R$ se la quantità di $R$ *necessaria* per eseguire $A$ su istanze di lunghezza $n$ è $\Omega(f(n))$
+		- (L'istanza peggiore utilizza $\Omega(f(n))$ di $R$)
+- Casi particolari:
+	- [[Complessità del tempo]]
+	- [[Complessità di problemi]]

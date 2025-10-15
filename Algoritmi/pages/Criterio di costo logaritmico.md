@@ -1,3 +1,4 @@
-- Criterio del calcolo dell' [[Efficienza]] di un [[Algoritmo]] nel quale ogni operazione ha costo dipendente dalla lunghezza degli operandi
-	- Per esempio, $x \cdot y$ ha costo $O(\log x + \log y)$
-	- Usato quando ci sono quantità molto grandi
+- Criterio del calcolo dell' [[Complessità]] di un [[Algoritmo]] nel quale:
+	- Ogni operazione ha tempo di calcolo proporzionale alla lunghezza dei valori coinvolti
+	- Ogni variabile ha lunghezza uguale alla rappresentazione del dato
+		- Ad esempio, per le stringhe si considera il numero di caratteri

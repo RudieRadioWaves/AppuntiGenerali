@@ -3,5 +3,3 @@
 	- Queste risorse sono tipicamente tempo (cicli di computazione) e spazio (quantità di memoria usata)
 	- Per le funzioni ricorsive, bisogna considerare lo [[Stack di ricorsione]]
 - Variando anche minimamente il codice, le prestazioni variano, ma non il tasso di crescita delle stesse (es. rimane sempre logaritmico/lineare/quadratico...), che conta di più
-- NB: Si noti che tutto questo è calcolando presupponendo il [[Criterio di costo uniforme]], il che non è sempre vero
-	- Si tengono a mente le operazioni della [[Macchina ad accesso diretto]]

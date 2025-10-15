@@ -17,7 +17,7 @@ exclude-from-graph-view:: true
 		- All'iterazione $i$:
 			- $p$ contiene $x^{i-1}$ prima dell'assegnamento
 			- $p$ contiene $x^{i}$ dopo l'assegnamento
-		- Il costo di $p \cdot x$ è $O(\log p + \log x) = \log x^{i- 1} + \log x = (i - 1) \log x$
+		- Il costo di $p \cdot x$ è $O(\log p \cdot \log x) = \log x^{i- 1} \cdot \log x = (i - 1) \log x$
 		- Il costo dell'assegnamento a $p$ è $O(\log p \cdot x)$
 		- Quindi il costo dell'$i-$esima iterazione è simile a $c \cdot i\log x + d$
 		- Il costo totale dell'algoritmo sarà $e + \sum_{i=1}^x (c \cdot i\log x + d)= e + c\sum_{i=1}^x  (i\log x) + c\sum_{i=1}^x (d) = e + c \cdot \log x \sum_{i=1}^x i + dx = e + c\cdot \log x \frac{x(x+1)}{2} + dx$

@@ -1,0 +1,3 @@
+- [[Algoritmo]] che lavora in tempo limitato da un polinomio rispetto alla lunghezza in input
+	- (Ossia lavora in $O(n^k)$)
+- Considerato ragionevoli/praticabili

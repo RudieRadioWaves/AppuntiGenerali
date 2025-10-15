@@ -1,0 +1,11 @@
+- Presi un [[Algoritmo]] $A$, un ingresso/istanza $I$, e il tempo $T(I)$ impiegato da $A$ su $I$, la complessità è definita come funzione $T : \N \rightarrow \N$ della lunghezza dell'input
+- Si definiscono:
+	- Il caso peggiore $T_{worst}$, ossia il tempo massimo utilizzato su input di lunghezza $n$:
+		- $T_{worst} = \max\{T(I) | \ |I| = n\}$
+			- Essenzialmente, prendo tutte le istanze di lunghezza $n$ e vedo quella su quale impiego di più
+	- Il caso migliore $T_{best}$, ossia il tempo minimo utilizzato su input di lunghezza $n$:
+		- $T_{best} = \min\{T(I) | \ |I| = n\}$
+			- Essenzialmente, prendo tutte le istanze di lunghezza $n$ e vedo quella su quale impiego di meno
+	- Il caso migliore $T_{best}$, ossia il tempo minimo utilizzato su input di lunghezza $n$:
+		- $T_{avg} = \sum_{|I| = n} Prob(I) \cdot T(I)$
+			- Media dei tempi utilizzati su input di lunghezza $n$, pesata con le probabilità

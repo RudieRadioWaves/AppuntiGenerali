@@ -1,0 +1,3 @@
+- [[Algoritmo]] che lavora in tempo esponenziale
+	- (Ossia lavora in $O(k^n)$ o $O(n^n)$)
+- Sono considerati impraticabili

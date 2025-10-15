@@ -55,19 +55,19 @@
 		  
 		  func main() {
 		  
-		  	start := time.Now()
+		  	start := time.Now()						# eseguita 1 volta
 		  
-		  	file, err := os.ReadFile("input.txt")
+		  	file, err := os.ReadFile("input.txt")	# eseguita 1 volta
 		  
-		  	if err == nil {
+		  	if err == nil {							# eseguita 1 volta
 		  
-		  		s := ""
+		  		s := ""								# eseguita 1 volta
 		  
-		  		for _, j := range file {
+		  		for _, j := range file {			# eseguita n + 1 volte
 		  
-		  			if !unicode.IsSpace(rune(j)) {
+		  			if !unicode.IsSpace(rune(j)) {	# eseguita al più n volte
 		  
-		  				s += string(j)
+		  				s += string(j)				# eseguita al più
 		  
 		  			}
 		  
@@ -97,31 +97,31 @@
 		  
 		  func main() {
 		  
-		  	start := time.Now()
+		  	start := time.Now()							# eseguita 1 volta
 		  
-		  	file, err := os.ReadFile("input.txt")
+		  	file, err := os.ReadFile("input.txt")		# eseguita 1 volta; n = lunghezza file
 		  
-		  	if err == nil {
+		  	if err == nil {								# eseguita 1 volta
 		  
-		  		s_ar := make([]string, len(file))
+		  		s_ar := make([]string, len(file))		# eseguita 1 volta
 		  
-		  		for i, v := range file {
+		  		for i, v := range file {				# eseguita n + 1 volte
 		  
-		  			if !unicode.IsSpace(rune(v)) {
+		  			if !unicode.IsSpace(rune(v)) {		# eseguita al più n volte
 		  
-		  				s_ar[i] = string(v)
+		  				s_ar[i] = string(v)				# eseguita al più n volte
 		  
 		  			}
 		  
 		  		}
 		  
-		  		fmt.Println(strings.Join(s_ar, ""))
+		  		fmt.Println(strings.Join(s_ar, ""))		# eseguita 1 volta
 		  
 		  	}
 		  
-		  	end := time.Now()
+		  	end := time.Now()							# eseguita 1 volta
 		  
-		  	fmt.Println(end.Sub(start).String())
+		  	fmt.Println(end.Sub(start).String())		# eseguita 1 volta
 		  
 		  }
 		  
@@ -133,7 +133,11 @@
 		  |10000|41.7819ms|23.9137ms|
 		  |100000|1.3905768s|142.3696ms|
 		  |1000000|1m46.7185882s|1.622693s|
-	- ...
+	- Complessità (con $n$ lunghezza file):
+		- Ver. 1
+			-
+		- Ver. 2:
+			-
 - Esercizio 3:
 	- Sia $A$ una slice di $n$ interi, ordinati in ordine crescente. Qual'è il costo asintotico di cancellare il primo elemento di $A$, ottenendo quindi una slice di lunghezza $n − 1$, se si vuole che la slice risultante sia ancora ordinata? E se non si richiede che il risultato sia ordinato?
 	- ...

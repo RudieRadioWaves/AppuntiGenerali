@@ -1,0 +1,8 @@
+- Dato un problema $P$, la complessità di $P$ è il tempo che si impiega a risolverlo
+- Voglio trovare un algoritmo $A$ che risolva $P$ in tempo $O(T(n))$ (ossia che sia sufficiente)
+	- Devo dimostrare che ogni algoritmo che risolve $P$ utilizza tempo $\Omega(T(n))$ (ossia che sia il tempo necessario per risolverlo)
+- In particolare, per il tempo, dato un problema $P$, una risorsa $R$ e due funzioni $f, g : \N \rightarrow \N$:
+	- Una limitazione superiore/upper bound
+		- $P$ ha complessità $O(f(n))$ rispetto ad $R$ se *esiste un algoritmo* che risolve $P$ il cui costo di esecuzione è $O(f(n))$ rispetto ad $R$
+	- Una limitazione superiore/upper bound
+		- $P$ ha complessità $\Omega(g(n))$ rispetto ad $R$ se *ogni algoritmo* che risolve $P$ il cui costo di esecuzione ha $\Omega(g(n))$ rispetto ad $R$
