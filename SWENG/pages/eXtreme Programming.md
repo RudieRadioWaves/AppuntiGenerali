@@ -24,3 +24,13 @@
 	- ![{14B10AE8-4E1F-436F-A1D1-649FEE05D533}.png](../assets/{14B10AE8-4E1F-436F-A1D1-649FEE05D533}_1760171579778_0.png)
 - Costituito da dodici pratiche
 	- [[Approccio XP]]
+- Non è sempre l'approccio giusto per sviluppare un progetto, per esempio:
+	- Se anche uno solo degli approcci non è usabile
+	- Se non si può avere feedback rapido (ad esempio a causa di barriere tecnologiche)
+	- Se ci sono barriere burocratiche (team troppo largo, necessità di documentazione per certificazioni...)
+- Alcune critiche:
+	- La sottovalutazione della pre-produzione up-front
+	- La sopravvalutazione delle user stories (troppo specifiche per sostituire i requisiti)
+	- Mancata evidenziazione delle dipendenze tra user stories (esse dovrebbero essere indipendenti tra loro, ma questo non è quasi mai possibile)
+		- Idealmente bisognerebbe identificare punti di sovvrapposizione
+	- Cross functional team (ogni sviluppatore viene visto come intercambiabile)

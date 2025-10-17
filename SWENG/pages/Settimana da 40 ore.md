@@ -1,0 +1,3 @@
+- Può sembrare strana, ma ha effetti sulla produttività
+	- Bilanciare stare a casa e lavorare
+	- Importante per produrre prodotti di qualità

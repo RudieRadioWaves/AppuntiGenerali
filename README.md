@@ -7,7 +7,7 @@
 | Algoritmi  | 5  | 9 |  https://myariel.unimi.it/course/view.php?id=8701 | https://t.me/+sfEGgXYELAswMDBk |
 | Algoritmi (Laboratorio) | 1  | 4 | https://myariel.unimi.it/course/view.php?id=8701 | https://t.me/+sfEGgXYELAswMDBk |
 | Sicurezza | 0 | 2 | https://myariel.unimi.it/course/view.php?id=10069 | https://pwn.college |
-| SWENG | 4 | 4 | https://gitlab.di.unimi.it/ingegneriadelsoftware, https://bellettini.di.unimi.it | https://marcobuster.github.io/sweng/ |
+| SWENG | 4 | 5 | https://gitlab.di.unimi.it/ingegneriadelsoftware, https://bellettini.di.unimi.it | https://marcobuster.github.io/sweng/ |
 | SWENG (Laboratorio) | 1 | 1 | https://gitlab.di.unimi.it/ingegneriadelsoftware, https://bellettini.di.unimi.it | . |
 | Embedded | 0 | 26 | https://gitlab.di.unimi.it/sistemiembedded | Sviluppa il progetto |
 | Reti | 0 | 6 | https://myariel.unimi.it/course/view.php?id=9026 | Fai stecazzo di esercizi su Packet Tracer di merda |

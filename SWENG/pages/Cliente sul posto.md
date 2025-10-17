@@ -1,0 +1,3 @@
+- Siccome il prodotto è per il cliente, deve vedere spesso il prodotto
+- Permette una fase di specifica leggera in tempo reale (es. test funzionali)
+	-

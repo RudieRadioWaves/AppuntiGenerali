@@ -1,0 +1,2 @@
+- Il codice viene scritto da tutti allo stesso modo, in modo tale che comunichi significati senza commenti o altro
+- Aiuta a svolgere il refactoring, la [[Proprietà collettiva]], la [[Pair programming]] e l'espansione

@@ -1,0 +1,1 @@
+- Sono regole, non leggi. Se c'è bisogno possono essere sospese
