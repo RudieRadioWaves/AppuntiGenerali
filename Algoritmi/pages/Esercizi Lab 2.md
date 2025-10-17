@@ -67,7 +67,7 @@
 		  
 		  			if !unicode.IsSpace(rune(j)) {	# eseguita al più n volte
 		  
-		  				s += string(j)				# eseguita al più
+		  				s += string(j)				# eseguita al più n volte
 		  
 		  			}
 		  

@@ -1,0 +1,2 @@
+- Confronto tra [[Modello a cascata]], [[Metodologia Agile]] e [[Open source]]
+- ![{A060B4D7-6287-47AC-AF18-916A3AF742EB}.png](../assets/{A060B4D7-6287-47AC-AF18-916A3AF742EB}_1760687108684_0.png)
