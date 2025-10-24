@@ -1,0 +1,26 @@
+- Tipo di [[Algoritmo]] che permette di mettere in ordine una serie di elementi
+	- E' vantaggioso in quanto operazioni come la ricerca ne traggono beneficio
+- Le operazioni di ordinamento sono dette "sorting"
+- L'ordinamento può essere:
+	- Interno (se i dati sono in memoria centrale)
+		- Si ha accesso diretto agli elementi
+		- Si ordinano vettori di strutture complesse (struct)
+			- Un campo è scelto come chiave per l'ordinamento
+	- Esterno (se i dati sono in memoria esterna)
+		- Si ha accesso di blocchi di dati
+		- La velocità dell'ordinamento dipende dalla periferica
+- Un algoritmo di ordinamento è detto stabile se preserva l'ordine relativo tra record con la stessa chiave
+- La [[Complessità]] di algoritmi di ordinamento basati su confronti su chiavi deve basare
+	- Tempo: considera la complessità in tempo calcolando primo fra tutti il numero di confronti
+		- Questo perchè sono le operazioni più costose usate da questi algoritmi
+		- Il tempo è stimabile come "numero di confronti $\times$ tempo per un confronto"
+	- Spazio: considera la memoria utilizzata in aggiunta all'array da ordinare (inclusa la memoria sullo stack)
+- Algoritmi elementari:
+	- [[SelectionSort]]
+	- [[InsertionSort]]
+	- [[BubbleSort]]
+- Algoritmi avanzati:
+	- [[MergeSort]]
+	- [[QuickSort]]
+	- [[HeapSort]]
+- Ognuno degli algoritmi sopra elencati è in loco (a parte mergeSort e quickSort)
