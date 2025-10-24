@@ -1,0 +1,10 @@
+- Qualità in una [[Rete di calcolatori]] o in un [[Protocollo]] nella quale viaggiano [Pacchetti]([[Pacchetto]]) che garantisce:
+	- La correttezza dei pacchetti
+	- L'ordine dei pacchetti
+	- La non-duplicazione dei pacchetti
+- E' end-to-end
+	- Controllata tra [Nodi]([[Nodo]]) adiacenti
+- Ad ogni ricezione corretta di un pacchetto, il destinatario invia un [[ACK]] per constatare che il pacchetto sia arrivato
+	- Il mittente possiede un [[Timer di ritrasmissione]] che viene resettato ad ogni ACK ricevuto
+		- Quando un ACK viene ricevuto, entrambi mittente e destinatario passano allo stato successivo e il timer viene resettato
+		- Se invece scade senza ricevere un pacchetto, resetta il timer e rimanda lo stesso pacchetto (in quanto è stato salvato in un buffer)

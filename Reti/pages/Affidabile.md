@@ -1,0 +1,1 @@
+- Detto di [[Rete di calcolatori]] o [[Protocollo]] che garantisce l'[[Affidabilità]] della connessione

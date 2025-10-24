@@ -1,0 +1,1 @@
+- Rapporto tra la lunghezza del [[Pacchetto]] inviato e la [[Velocità di trasmissione]] del [[Clock di trasmissione]])

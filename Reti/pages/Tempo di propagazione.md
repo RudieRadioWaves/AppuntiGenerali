@@ -1,0 +1,1 @@
+- Rapporto tra la lunghezza del mezzo di trasmissione e la [[Velocità di propagazione]]

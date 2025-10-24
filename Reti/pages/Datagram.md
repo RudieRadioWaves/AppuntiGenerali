@@ -1,0 +1,1 @@
+- [[Pacchetto]] totalmente autonomo, senza collegamenti logici ad altri elementi

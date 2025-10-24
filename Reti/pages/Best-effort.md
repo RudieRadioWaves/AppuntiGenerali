@@ -1,0 +1,2 @@
+- Detto di [[Rete di calcolatori]] che non è [[Affidabile]]
+- Massimizza la velocità; i compiti dell'affidabilità sono lasciati agli [[Host]]

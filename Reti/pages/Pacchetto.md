@@ -1,0 +1,7 @@
+- Unità base dentro una [[Rete di calcolatori]]
+- Hanno una dimensione massima fissa
+- E' completamente indipendente da altri pacchetti anche se è stato creato, come gli altri pacchetti, dalla [[Frammentazione]] di dati su un [[Host]]
+	- Il riassemblamento avviene a destinazione
+- E' diviso in:
+	- [[Header]]
+	- [[Payload]]

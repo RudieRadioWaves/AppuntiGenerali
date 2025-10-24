@@ -1,0 +1,3 @@
+- "User Datagram Protocol"
+- [[Protocollo]]
+- "Controparte non [[Affidabile]] di [[TCP]]"

@@ -1,0 +1,4 @@
+- Costante dipendente dal materiale
+	- Per convenzione:
+		- Per cavi di rame è $2 \times 10^8$
+		- Per cavi di fibra è $3 \times 10^8$

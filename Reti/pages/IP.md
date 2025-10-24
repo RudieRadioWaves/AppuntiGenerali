@@ -1,0 +1,5 @@
+- "Internet Protocol"
+- [[Protocollo]] che si occupa di [[Instradamento]] e [[Indirizzamento]]
+- Esistono, al momento, due versioni utilizzate:
+	- [[IPv4]]
+	- [[IPv6]]

@@ -1,0 +1,3 @@
+- Alla sua scadenza, il [[Pacchetto]] bufferizzato viene reinviato
+- Deve essere dimensionato in modo appropriato, in quanto deve essere più breve possibile per limitare delay/lag
+- E' uguale al [[Round trip time]]

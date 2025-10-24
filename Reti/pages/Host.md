@@ -1,0 +1,2 @@
+- Apparato utente in cui sono in esecuzione le applicazioni finali
+- End-point nella [[Rete di calcolatori]]

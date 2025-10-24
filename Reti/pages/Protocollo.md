@@ -1,0 +1,3 @@
+- Algoritmo che funziona tra due partner che evolve in modo sincronizzato tra i due
+- Devono condividere informazioni nello stesso formato
+- Definiti da degli standard internazionali (RFC, definiti da IEEE)

@@ -1,0 +1,7 @@
+- Generatore di impulsi
+- "Spinge" i bit lungo una connessione
+- Ha periodo di 1ms
+	- A ogni impulso:
+		- Il clock del mittente prende un bit dal pacchetto e lo invia
+		- Il clock del ricevitore prende il bit in arrivo e lo salva
+- Due clock devono essere sincronizzati per funzionare in modo corretto

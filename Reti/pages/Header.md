@@ -1,0 +1,5 @@
+- Sezione di un [[Pacchetto]] che contiene informazioni di controllo, come:
+	- Campo sorgente e campo destinazione
+		- (Impiegano entrambi 20 byte per [[IPv4]], 38 byte per [[IPv6]])
+	- Numero di sequenza
+- Se è troppo grande può introdurre overhead di controllo, in quanto ogni campo deve essere controllato

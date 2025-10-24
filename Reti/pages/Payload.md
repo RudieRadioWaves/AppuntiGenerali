@@ -1,0 +1,1 @@
+- Sezione di un [[Pacchetto]] che contiene i dati effettivi frammentati

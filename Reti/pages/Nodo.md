@@ -1,0 +1,5 @@
+- Elemento base della [[Rete di calcolatori]]
+- Permettono la navigazione dei [Pacchetti]([[Pacchetto]])
+- Tipi di nodi:
+	- [[Switch]]
+	- [[Router]]

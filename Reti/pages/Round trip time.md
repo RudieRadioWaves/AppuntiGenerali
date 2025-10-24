@@ -1,0 +1,8 @@
+- Tempo necessario per spedire e ricevere un [[Pacchetto]]
+- Formato dalla somma dei seguenti:
+	- Il [[Tempo di trasmissione]] di un pacchetto ($t_x$)
+	- Il [[Tempo di propagazione]] di un pacchetto ($t_p$)
+	- Il tempo di trasmissione di un [[ACK]] di un pacchetto ($t_{xA}$)
+	- Il tempo di propagazione di un [[ACK]] di un pacchetto ($t_{pA}$)
+	- Il tempo di processing
+- Per convenzione, si dice che è uguale a $t_x  + 2 \times t_p$

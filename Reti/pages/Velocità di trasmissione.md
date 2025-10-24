@@ -1,0 +1,2 @@
+- Misurata in BPS (bit per secondo)
+- Dettata dal [[Clock di trasmissione]]

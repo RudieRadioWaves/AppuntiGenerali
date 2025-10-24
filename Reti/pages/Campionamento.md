@@ -1,0 +1,3 @@
+- Trasformazione di un segnale analogico in una serie di valori digitali e discreti
+- Processo usato per prendere un segnale elettrico che lo trasforma in bit
+- La frequenza di campionamento deve essere costante (125 microsecondi nel caso della [[Rete di calcolatori]])

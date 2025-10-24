@@ -1,0 +1,9 @@
+- Dispositivi che si occupano dell'[[Instradamento]]
+- E' composto da:
+	- [[Link]] bidirezionali, collegati ad altri buffer
+	- Porte di ingresso, con un buffer gestito tramite queue
+	- Uno scheduler, che gestisce il traffico in ingresso ed uscita
+	- Un processo di routing, che interpreta ogni dato in entrata e consulta le proprie tabelle di instradamento per determinare la porta di uscita corretta
+- Essenzialmente, deve smistare i [Pacchetti]([[Pacchetto]]) in entrata verso l'uscita più appropriata
+- Possono diventare colli di bottiglia se ci sono troppi pacchetti in ingresso che non smista abbastanza velocemente
+	- Causano congestione se hanno molteplici link

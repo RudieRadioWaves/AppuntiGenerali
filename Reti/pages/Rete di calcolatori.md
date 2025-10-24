@@ -1,0 +1,7 @@
+- Sistema distribuito che interconnette [[Host]] distribuiti geograficamente attraverso un sistema di rete composto da [[Link]] e [Nodi]([[Nodo]])
+	- Permette di mettere in collegamento host con host remoti o host con server remoti per eseguire applicazioni di rete
+- Attraverso di essa viaggiano [Pacchetti]([[Pacchetto]])
+- Organizzabile in una [[Topologia di rete]]
+	- Le connessioni tra nodi sono sempre cablate
+	- Le connessioni tra host e nodo possono essere wireless
+- Le reti moderne sono [[Best-effort]]

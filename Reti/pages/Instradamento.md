@@ -1,0 +1,4 @@
+- Determinazione del percorso migliore per inviare [Pacchetti]([[Pacchetto]]) in una [[Rete di calcolatori]] tra una sorgente e una destinazione
+- Impiega metriche quali:
+	- Distanza minima, misurata in hop
+	- Tempo di percorrenza

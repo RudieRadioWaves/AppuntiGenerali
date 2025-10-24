@@ -1,0 +1,2 @@
+- [[Protocollo]] che si occupa dell'affidabilità tra coppie di [Nodi]([[Nodo]])
+- Non usata, in quanto rallenta troppo la velocità della trasmissione
